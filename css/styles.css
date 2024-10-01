@@ -82,6 +82,10 @@ picture {
   flex-basis: 40%;
 }
 
+picture img {
+  border-radius: 10px;
+}
+
 /*
 figure {
   margin: 3rem 0 0 0;
